@@ -10,4 +10,4 @@ function calctab() {
   }
 }
 
-let MultTab = (`${console.log(calctab())} = `);
+calctab();
